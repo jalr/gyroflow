@@ -1375,7 +1375,7 @@ dependencies = [
 
 [[package]]
 name = "gyroflow"
-version = "1.4.0"
+version = "1.4.2"
 dependencies = [
  "argh",
  "breakpad-sys",
@@ -1423,7 +1423,7 @@ dependencies = [
 
 [[package]]
 name = "gyroflow-core"
-version = "1.4.0"
+version = "1.4.2"
 dependencies = [
  "ahrs",
  "akaze",
